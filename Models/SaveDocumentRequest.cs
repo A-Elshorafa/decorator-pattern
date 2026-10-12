@@ -6,7 +6,7 @@ public class SaveDocumentRequest
     /// <example>contract-001</example>
     public string? Id { get; set; }
 
-    /// <example>This agreement is made between Nile Logistics and Delta Retail. This agreement is made between Nile Logistics and Delta Retail. This agreement is made between Nile Logistics and Delta Retail. This agreement is made between Nile Logistics and Delta Retail.</example>
+    /// <example>This agreement is made between Nile Logistics and Delta Retail. This agreement is made between Nile Logistics and Delta Retail. This agreement is made between Nile Logistics and Delta Retail. This agreement is made between Nile Logistics and Delta Retail. This agreement is made between Nile Logistics and Delta Retail. This agreement is made between Nile Logistics and Delta Retail. This agreement is made between Nile Logistics and Delta Retail. This agreement is made between Nile Logistics and Delta Retail.</example>
     public string Content { get; set; } = "";
 
     /// <summary>Decorators in the order they run on save. Load runs them in reverse.</summary>
